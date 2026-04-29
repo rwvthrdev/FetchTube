@@ -14,10 +14,3 @@ Simples, rápida e com um visual estilizado no terminal.
 
 ---
 
-## Instalação
-
-Clone o projeto:
-
-```bash
-git clone https://github.com/rwvthrdev/FetchTube.git
-cd fetchtube
