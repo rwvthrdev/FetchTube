@@ -19,5 +19,5 @@ Simples, rápida e com um visual estilizado no terminal.
 Clone o projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/fetchtube.git
+git clone https://github.com/rwvthrdev/FetchTube.git
 cd fetchtube
